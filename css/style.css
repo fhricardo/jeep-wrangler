@@ -142,3 +142,7 @@ section {
 .img-large img {
     width: 100%;
 }
+
+.large p {
+    color: #fafafa;
+}
